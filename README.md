@@ -7,3 +7,7 @@
 
 ## Redes Neurais
 ![Redes Neurais](https://github.com/suellentz/Disciplinas/blob/master/teste.gif)
+
+![Alt text](https://github.com/suellentz/Disciplinas/blob/master/teste.gif)
+
+<img src="https://github.com/suellentz/Disciplinas/blob/master/teste.gif" width="400" height="400" />
