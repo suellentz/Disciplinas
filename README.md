@@ -3,7 +3,7 @@
 # Disciplinas
 
 ## Probabilidade e Estatística
-[01. Análise Exploratória](https://github.com/suellentz/Disciplinas/blob/master/01---Analise-explorarotia.pdf)
+[01. Análise Exploratória](https://github.com/suellentz/Disciplinas/raw/master/01---Analise-explorarotia.pdf)
 
 ## Redes Neurais
 ![Redes Neurais](https://github.com/suellentz/Disciplinas/blob/master/teste.gif)
